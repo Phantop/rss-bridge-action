@@ -1,3 +1,9 @@
 bridge=ArsTechnicaBridge&section=index&format=Html
-bridge=AO3Bridge&context=List&range=first&format=Mrss&url=https%3a%2f%2farchiveofourown.org%2ftags%2fToph%2520Beifong%2as%2aZuko%2fworks%3fwork_search%5bsort_column%5d%3dcreated_at
 bridge=ScribbleHubBridge&context=List&url=https%3A%2F%2Fwww.scribblehub.com%2Fseries-finder%2F%3Fsf%3D1%26gi%3D6%26tgi%3D1088%26sort%3Ddateadded&format=Mrss
+bridge=GameBananaBridge&context=Game&gid=5486&format=Mrss
+bridge=GameBananaBridge&context=Game&gid=5866&format=Mrss
+bridge=GameBananaBridge&context=Game&gid=6386&format=Mrss
+bridge=GameBananaBridge&context=Game&gid=7617&format=Mrss
+bridge=GameBananaBridge&context=Game&gid=8177&format=Mrss
+bridge=GameBananaBridge&context=Game&gid=8216&format=Mrss
+bridge=GameBananaBridge&context=Game&gid=18604&format=Mrss
