@@ -19,6 +19,7 @@ jobs:
         run: |
           git submodule update --init --remote
           echo '*' > rss-bridge/whitelist.txt
+          cp -r bridges rss-bridge
           php -t rss-bridge -S 127.0.0.1:8080 &
           sleep 1
 
