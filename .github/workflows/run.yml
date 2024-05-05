@@ -1,0 +1,31 @@
+name: build
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Install dependencies
+        run: sudo apt install -y parallel php
+      - name: Run stuff
+        run: |
+          git submodule update --init --remote
+          echo '*' > rss-bridge/whitelist.txt
+          php -t rss-bridge -S 127.0.0.1:8080 &
+          sleep 1
+
+          rm -f out/*
+          parallel wget -P out "localhost:8080/?action=display\&{}" < list
+      - name: Commit data
+        run: |
+          git config user.name "Updater"
+          git config user.email "updater@rss-bridge.org"
+          git add out
+          git commit --allow-empty -m "$(date -u)"
+          git push
