@@ -13,4 +13,4 @@ bridge=GameBananaBridge&context=Game&gid=6386&format=Mrss&updates=on
 bridge=GameBananaBridge&context=Game&gid=7617&format=Mrss&updates=on
 bridge=GameBananaBridge&context=Game&gid=8177&format=Mrss&updates=on
 bridge=GameBananaBridge&context=Game&gid=8216&format=Mrss&updates=on
-https://rssbridge.bus-hit.me/?action=display&bridge=AO3Bridge&context=List&range=first&format=Mrss&url=https%3a%2f%2farchiveofourown.org%2ftags%2fLink%2as%2aMidna%2520%28Legend%2520of%2520Zelda%29%2fworks%3fwork_search%5bsort_column%5d%3dcreated_at
+bridge=AO3Bridge&context=List&range=first&format=Mrss&url=https%3a%2f%2farchiveofourown.org%2ftags%2fLink%2as%2aMidna%2520%28Legend%2520of%2520Zelda%29%2fworks%3fwork_search%5bsort_column%5d%3dcreated_at
