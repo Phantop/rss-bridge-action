@@ -14,7 +14,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
       - name: Install dependencies
-        run: sudo apt install -y parallel php
+        run: sudo apt install -y parallel php rename
       - name: Run stuff
         run: |
           git submodule update --init --remote
@@ -23,8 +23,11 @@ jobs:
           php -t rss-bridge -S 127.0.0.1:8080 &
           sleep 1
 
+          sed -i 's#^.*?action=display&##' list
+
           rm -f out/*
           parallel wget -P out "localhost:8080/?action=display\&{}" < list
+          file-rename 's/index.html\?action=display&//' out/*
       - name: Commit data
         run: |
           git config user.name "Updater"
