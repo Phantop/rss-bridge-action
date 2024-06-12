@@ -52,6 +52,11 @@ class GameBananaBridge extends BridgeAbstract
         array_shift($json_list); // Take title from API request and remove from json
 
         foreach ($json_list as $element) {
+            // Trashed mod IDs are still picked up and return null; skip
+            if ($element[0] == null) {
+                continue;
+            }
+
             $item = [];
             $item['uri'] = $element[6];
             $item['comments'] = $item['uri'] . '#PostsListModule';
@@ -76,14 +81,21 @@ class GameBananaBridge extends BridgeAbstract
             foreach ($img_list as $img_element) {
                 $item['content'] .= '<img src="https://images.gamebanana.com/img/ss/mods/' . $img_element['_sFile'] . '"/>';
             }
+
+            // Get updates from element[8], if applicable
             if ($this->getInput('updates') && sizeof($element[8]) > 0) {
                 $update = $element[8][0];
-                $item['content'] .= '<br><strong>Update: ' . $update['_sTitle'];
-                $item['content'] .= '</strong><br>' . $update['_sText'];
-                foreach ($update['_aChangeLog'] as $change) {
-                    $item['content'] .= '<br><em>' . $change['cat'] . ': ' . $change['text'] . '</em>';
+                $item['content'] .= '<br><strong>Update:</strong> ' . $update['_sTitle'];
+                if ($update['_sText'] != '') {
+                    $item['content'] .= '<br>' . $update['_sText'];
                 }
-                $item['content'] .= '<hr>';
+                foreach ($update['_aChangeLog'] as $change) {
+                    if ($change['cat'] == '') {
+                        $change['cat'] = 'Change';
+                    }
+                    $item['content'] .= '<br><em>' . $change['cat'] . '</em>: ' . $change['text'];
+                }
+                $item['content'] .= '<br><hr>';
             }
             $item['content'] .= '<br>' . $element[2];
 
