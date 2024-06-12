@@ -77,8 +77,13 @@ class GameBananaBridge extends BridgeAbstract
                 $item['content'] .= '<img src="https://images.gamebanana.com/img/ss/mods/' . $img_element['_sFile'] . '"/>';
             }
             if ($this->getInput('updates') && sizeof($element[8]) > 0) {
-                $item['content'] .= '<br><strong>Update: ' . $element[8][0]['_sTitle'];
-                $item['content'] .= '</strong><br>' . $element[8][0]['_sText'] . '<hr>';
+                $update = $element[8][0];
+                $item['content'] .= '<br><strong>Update: ' . $update['_sTitle'];
+                $item['content'] .= '</strong><br>' . $update['_sText'];
+                foreach ($update['_aChangeLog'] as $change) {
+                    $item['content'] .= '<br><em>' . $change['cat'] . ': ' . $change['text'] . '</em>';
+                }
+                $item['content'] .= '<hr>';
             }
             $item['content'] .= '<br>' . $element[2];
 
