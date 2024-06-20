@@ -26,7 +26,6 @@ jobs:
           mkdir ../out
           path='?action=display&format=Mrss&bridge='
           parallel -q wget -P ../out localhost:8080/$path{} < list
-          rename 's/.*?bridge=//' ../out/*
       - name: Commit data
         run: |
           git config user.name "Updater"
@@ -34,7 +33,7 @@ jobs:
           git fetch origin out
           git checkout out
           rm -rf *
-          mv ../out/* .
+          rename 's/.*?bridge=//' ../out/*
           git add .
-          git commit --amend -empty -m "$(date -u)"
+          git commit --amend -m "$(date -u)"
           git push -f origin out
