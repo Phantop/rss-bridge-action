@@ -26,8 +26,8 @@ jobs:
           sed -i 's#^.*?action=display&##' list
 
           rm -f out/*
-          parallel wget -P out "localhost:8080/?action=display\&{}" < list
-          file-rename 's/index.html\?action=display&//' out/*
+          parallel wget -P out "localhost:8080/?action=display\&format=Mrss\&{}" < list
+          file-rename 's/index.html\?action=display&format=Mrss&//' out/*
       - name: Commit data
         run: |
           git config user.name "Updater"
