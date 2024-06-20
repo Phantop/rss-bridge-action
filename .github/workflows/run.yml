@@ -36,5 +36,5 @@ jobs:
           rm -rf *
           mv ../out/* .
           git add .
-          git commit --allow-empty -m "$(date -u)"
-          git push origin out
+          git commit --amend -empty -m "$(date -u)"
+          git push -f origin out
