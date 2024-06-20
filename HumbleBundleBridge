@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Humble Bundle - bundles</title>
+    <description>Humble Bundle - bundles</description>
+    <link>https://humblebundle.com/bundles</link>
+    <atom:link rel="alternate" type="text/html" href="https://humblebundle.com/bundles"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://localhost:8080/?action=display&amp;format=Mrss&amp;bridge=HumbleBundleBridge"/>
+    <image>
+      <url>https://humblebundle.com/favicon.ico</url>
+      <title>Humble Bundle - bundles</title>
+      <link>https://humblebundle.com/bundles</link>
+    </image>
+    <item>
+      <title>Adventure Time by Oni Press</title>
+      <link>https://humblebundle.com//books/adventure-time-oni-press-books</link>
+      <guid isPermaLink="false">9143ea9ced47e2851aa455bb90af2d648086da74</guid>
+      <pubDate>Thu, 08 Aug 2024 18:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;Adventure Time #04&lt;/em&gt;, &lt;em&gt;Adventure Time #03&lt;/em&gt;, &lt;em&gt;Adventure Time #02&lt;/em&gt;, and more!&lt;br&gt;Join Finn, Jake, and the rest of your faves from the Land of Ooo on a series of new adventures in this bundle of Adventure Time comics from Oni Press. You’ll get 75 issues of wild quests, magical mishaps, and hilarious hijinks, featuring a rogues gallery of beloved baddies familiar to longtime fans as well as unexpected alliances and plenty of whimsical chaos, as only &lt;em&gt;Adventure Time&lt;/em&gt; can provide. Plus, your purchase helps the Hero Initiative and the Book Industry Charitable Foundation.</description>
+      <media:content url="https://hb.imgix.net/a5e87735374ddccd2d7ebc1b7a0cbebe0b091977.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=05fb784cb6d6ba59225d3915882a8c7f" type="image/png"/>
+      <media:content url="https://hb.imgix.net/11a13a6cca1ad043a73f66993cf91e0355764acf.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=c32797da05d5e0d1b5f430c98c3e83c8" type="image/jpeg"/>
+      <category>comics</category>
+      <category>Humble Comics Bundle</category>
+      <category>75 issues</category>
+      <category>$299 Value</category>
+    </item>
+    <item>
+      <title>Threat Intelligence by Packt</title>
+      <link>https://humblebundle.com//books/threat-intelligence-packt-books</link>
+      <guid isPermaLink="false">ada00e05d23ef97517ecc366c62f0c567c442c71</guid>
+      <pubDate>Mon, 05 Aug 2024 18:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;The Foundations of Threat Hunting&lt;/em&gt;, &lt;em&gt;ChatGPT for Cybersecurity Cookbook&lt;/em&gt;, &lt;em&gt;Operationalizing Threat Intelligence&lt;/em&gt;, &lt;em&gt;Industrial Cybersecurity - Second Edition&lt;/em&gt;, and more!&lt;br&gt;Security pros, get the tools you need to assess any and all threats to the systems under your charge with this bundle of books from Packt. &lt;em&gt;ChatGPT for Cybersecurity Cookbook&lt;/em&gt; gives you the lowdown on integrating OpenAI’s powerful models into your security practices. &lt;em&gt;Industrial Cybersecurity&lt;/em&gt; teaches you how to build bulletproof ICS networks to keep your mission critical infrastructure safe and secure. &lt;em&gt;Practical Threat Intelligence and Data-Driven Threat Hunting&lt;/em&gt; is your gateway to the crucial and exciting world of cyberintelligence. Get all these books and more, and help support World Central Kitchen with your purchase!</description>
+      <media:content url="https://hb.imgix.net/339c39296907012eb3f2e76c432dfa25ea1529a9.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=5d33a9800a67f853c9ffc3d9215ad29e" type="image/png"/>
+      <media:content url="https://hb.imgix.net/eb139abe6b47219f775116adf499b4fd1137cb38.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=1a7a27e8d6623d59c338aeef54a31f3c" type="image/jpeg"/>
+      <category>books</category>
+      <category>Humble Tech Book Bundle</category>
+      <category>17 books</category>
+      <category>$668 Value</category>
+    </item>
+    <item>
+      <title>Subjects We Should Have Learned in School</title>
+      <link>https://humblebundle.com//books/subjects-we-should-have-learned-in-school-books</link>
+      <guid isPermaLink="false">c1ce80f13d690365e7a3c142ba6968f0174900cd</guid>
+      <pubDate>Sat, 20 Jul 2024 18:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;101 Great Resumes&lt;/em&gt;, &lt;em&gt;Tasty. Healthy. Cheap&lt;/em&gt;, &lt;em&gt;How to Read the Wilderness&lt;/em&gt;, &lt;em&gt;Green Dumb Guide to Houseplants&lt;/em&gt;, &lt;em&gt;Popular Mechanics: How to Fix Anything&lt;/em&gt;, &lt;em&gt;The Motivational Interviewing Workbook&lt;/em&gt;, and more!&lt;br&gt;Practical knowledge, critical life skills, and the bits of guidance that can lead to a richer, more fulfilling life—it’s all in this bundle, packed with books meant to help you become a more effective you!  &lt;em&gt;The Motivational Interviewing Workbook&lt;/em&gt; will help you define—and achieve—your long-term goals, whatever they may be. &lt;em&gt;Tasty. Healthy. Cheap&lt;/em&gt; does exactly what the title says, teaching you recipes to build your health, boost your confidence in the kitchen, and save cash. &lt;em&gt;Green Dumb Guide to Houseplants&lt;/em&gt; is a foolproof guide to ease yourself into the joys of plant ownership. Get all these books and more—over 30 in total—and help support charity with your purchase.</description>
+      <media:content url="https://hb.imgix.net/48493dcb06931c042c0bd04885465f83cd90ba79.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=1a4c7752e0dbf28465df48dd8f769b1e" type="image/png"/>
+      <media:content url="https://hb.imgix.net/f59cdca9cf56e55369b1e27d8501f418f8fb5905.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=e701103513454d5fafa343e70d29461e" type="image/jpeg"/>
+      <category>books</category>
+      <category>Humble Book Bundle</category>
+      <category>37 books</category>
+      <category>$563 Value</category>
+    </item>
+    <item>
+      <title>Starfinder Second Edition Playtest Primer from Paizo Inc.</title>
+      <link>https://humblebundle.com//books/starfinder-second-edition-playtest-primer-from-paizo-inc-books</link>
+      <guid isPermaLink="false">1dfe9f0baeb8a40832d815559de5693bb88581f1</guid>
+      <pubDate>Thu, 01 Aug 2024 18:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;StarfinderFirst Edition Pact Worlds (PDF)&lt;/em&gt;, &lt;em&gt;Starfinder Second Edition Playtest Rulebook (PDF)&lt;/em&gt;, &lt;em&gt;Starfinder First Edition: Drift Crisis (hardcover)&lt;/em&gt;, and more!&lt;br&gt;Get on the ground floor of the next great science-fantasy TTRPG (and get a bunch of cool options for your &lt;em&gt;Pathfinder&lt;/em&gt; campaign) with Paizo’s &lt;em&gt;Starfinder Second Edition&lt;/em&gt;! This bundle includes the &lt;em&gt;Starfinder Second Edition Playtest Rulebook&lt;/em&gt;, a massive 264-pages compendium covering everything you need to be a part of the game in its current form and help shape its future. In addition, you’ll get a colossal first edition &lt;em&gt;Starfinder&lt;/em&gt; library, complete rulebooks, supplements, adventure paths, and much, much more. Plus, your purchase helps support Girls Who Code.</description>
+      <media:content url="https://hb.imgix.net/7a9a4dd1883942addb55d955c39161d5909782e2.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=9c0d67a2df377d9f3990788339d38843" type="image/png"/>
+      <media:content url="https://hb.imgix.net/72ebf1654353f4448cef3db4a6154d7e27cb1865.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=896d1c7fede5105d40809b3e0d0d1840" type="image/jpeg"/>
+      <category>books</category>
+      <category>Humble RPG Bundle</category>
+      <category>52 books</category>
+      <category>$711 Value</category>
+    </item>
+    <item>
+      <title>Sybex CompTIA and More by Wiley</title>
+      <link>https://humblebundle.com//books/sybex-comptia-and-more-wiley-books</link>
+      <guid isPermaLink="false">7e93f344dfc0109f2fde9a4fd0f90f4f92833ee3</guid>
+      <pubDate>Mon, 22 Jul 2024 18:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;CC Certified in Cybersecurity Study Guide&lt;/em&gt;, &lt;em&gt;CompTIA Linux+ Study Guide: Exam XK0-005, 5th Edition&lt;/em&gt;, &lt;em&gt;Ccna Certification Study Guide: Exam 200-301, Volume 2&lt;/em&gt;, and more!&lt;br&gt;You’ve got the skills—ready to get the credentials? This bundle of books from Wiley will get you ready for the most relevant certification exams in the IT space. Included are books covering a range of certs from CompTIA, Cisco, Google, and more. Get certified in IT support, cybersecurity, enterprise networking, cloud ops, and much more. More than 20 books are included, authored by experts in their respective fields who get you ready to pass these exams with flying colors. Plus, your purchase supports the Hidden Genius Project.</description>
+      <media:content url="https://hb.imgix.net/30f8c64c4843f46920658f4196a88fe848596945.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=193c547aa9b5903225a793f30adb338b" type="image/png"/>
+      <media:content url="https://hb.imgix.net/8d0d82b7e66b9cc723062ef24205a2aea9d3dd9e.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=c3299b3e3fff3b2a009f3f7825e3e998" type="image/jpeg"/>
+      <category>books</category>
+      <category>Humble Tech Book Bundle</category>
+      <category>22 books</category>
+      <category>$764 Value</category>
+    </item>
+    <item>
+      <title>Build it with LEGO by No Starch</title>
+      <link>https://humblebundle.com//books/build-it-with-lego-no-starch-books</link>
+      <guid isPermaLink="false">f9068a4217b7a0044632c09044e45595383a6269</guid>
+      <pubDate>Mon, 29 Jul 2024 18:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;The Cult of LEGO&lt;/em&gt;, &lt;em&gt;The LEGO Engineer&lt;/em&gt;, &lt;em&gt;Tiny LEGO Wonders&lt;/em&gt;, &lt;em&gt;The LEGO Architect&lt;/em&gt;, &lt;em&gt;The Art of the Brick&lt;/em&gt;, &lt;em&gt;The LEGO Animation Book&lt;/em&gt;, and more!&lt;br&gt;Are you a certified brick head? Then this luxe LEGO® library is for you! Dive deep into the culture of the iconic building toy with books that reveal the ingenuity and artistry that define it. &lt;em&gt;The Cult of LEGO®&lt;/em&gt; profiles some of the most interesting and off-the-wall LEGO® creators out there. &lt;em&gt;The LEGO® Architect&lt;/em&gt; provides a fun history lesson and teaches you how to build some of the most iconic buildings in the world. &lt;em&gt;The Art of the Brick&lt;/em&gt; showcases the work of Nathan Sawaya, an artist for his stunning sculptures and portraits made from LEGO® bricks. Get all these books and more—20 in total—and help support charity with your purchase.</description>
+      <media:content url="https://hb.imgix.net/79a1171a9124857e8684183e89daf5be8738c97f.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=edbf396e2cd7acd3d75ecf81b4a1bee6" type="image/png"/>
+      <media:content url="https://hb.imgix.net/ca6ff5d2a1b499bcf63adc4697c9cb25b9b39bd2.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=b870bde78f463e6aa7fa164c9d6fcbf8" type="image/jpeg"/>
+      <category>books</category>
+      <category>Humble Tech Book Bundle</category>
+      <category>20 books</category>
+      <category>$423 Value</category>
+    </item>
+    <item>
+      <title>Jeff VanderMeer's Weird Worlds: The Southern Reach Series and Other Works</title>
+      <link>https://humblebundle.com//books/jeff-vandermeers-weird-worlds-southern-reach-series-and-other-works-books</link>
+      <guid isPermaLink="false">346bfb9cae2fe245e7a3e0aeffa8b5bacad13f9a</guid>
+      <pubDate>Sat, 03 Aug 2024 18:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;Borne&lt;/em&gt;, &lt;em&gt;Authority&lt;/em&gt;, &lt;em&gt;Acceptance&lt;/em&gt;, &lt;em&gt;Annihilation&lt;/em&gt;, &lt;em&gt;Hummingbird Salamander&lt;/em&gt;, and more!&lt;br&gt;Discover the haunting and imaginative worlds of Jeff VanderMeer, author of the acclaimed &lt;em&gt;Southern Reach&lt;/em&gt; books, and a host of other standouts in the surreal and discomfiting “New Weird” genre.  The &lt;em&gt;Southern Reach&lt;/em&gt; books invite you to explore a mysterious, ever-changing landscape of Area X, which challenges the very boundaries of reality. Catch up on this celebrated series ahead of the fourth novel &lt;em&gt;Absolution&lt;/em&gt;, due out this Fall. You’ll get 11 of VanderMeer’s books in total, including &lt;em&gt;Borne&lt;/em&gt; and &lt;em&gt;Hummingbird Salamander&lt;/em&gt;. Plus, your purchase helps Trees, Water &amp; People!</description>
+      <media:content url="https://hb.imgix.net/52f83e45435d4fefb8a6bebfd4266bd9a6ca7323.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=902fda32dee733fb299c6f1976bcf218" type="image/png"/>
+      <media:content url="https://hb.imgix.net/e2b2319689da1bd09079996c74a1d600381c418c.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=69246a1f9468eba6fe7b64d6d9c3ed66" type="image/jpeg"/>
+      <category>books</category>
+      <category>Humble Book Bundle</category>
+      <category>11 books</category>
+      <category>$124 Value</category>
+    </item>
+    <item>
+      <title>The Complete Ender's Game Collection by Orson Scott Card</title>
+      <link>https://humblebundle.com//books/complete-enders-game-collection-orson-scott-card-books</link>
+      <guid isPermaLink="false">ecd8dd19cec52cb83585c831f73a87045ab44488</guid>
+      <pubDate>Thu, 25 Jul 2024 18:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;Hive&lt;/em&gt;, &lt;em&gt;Xenocide&lt;/em&gt;, &lt;em&gt;Last Shadow&lt;/em&gt;, &lt;em&gt;Ender's Game&lt;/em&gt;, &lt;em&gt;Speaker For The Dead&lt;/em&gt;, and more!&lt;br&gt;Ready to experience some of the most challenging and evocative sci-fi ever put to paper? This bundle is your gateway to the beloved and influential &lt;em&gt;Ender’s Game&lt;/em&gt; series. Follow young Ender Wiggin's journey from a brilliant child to a military prodigy as he trains to defend humanity against an alien threat. This bundle includes the core novels of the Ender Saga, including &lt;em&gt;Ender's Game&lt;/em&gt;, &lt;em&gt;Ender's Shadow&lt;/em&gt;, &lt;em&gt;Speaker for the Dead&lt;/em&gt;, and many more. Prepare yourself for a haunting exploration of morality, loss, and the heavy burden of leadership in a world where children are humanity's last hope. Plus, your purchase helps Covenant House.</description>
+      <media:content url="https://hb.imgix.net/c343fcda5905f6b7434b5b581796ba119ea62e18.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=aa48404288f87253e9b4e4e9e6ade312" type="image/png"/>
+      <media:content url="https://hb.imgix.net/ebba590789178ca27b8d61cd9808581b1e4070a3.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=0f993808d4ed3b5fd41737ae909af1f3" type="image/jpeg"/>
+      <category>books</category>
+      <category>Humble Book Bundle</category>
+      <category>19 books</category>
+      <category>$179 Value</category>
+    </item>
+    <item>
+      <title>Ultimate Doctor Who RPG Collection by Cubicle 7 Games</title>
+      <link>https://humblebundle.com//books/ultimate-doctor-who-rpg-collection-cubicle-7-games-books</link>
+      <guid isPermaLink="false">84a7ab2f0443dc1d8995bfee59c4ad2ea971a407</guid>
+      <pubDate>Sat, 27 Jul 2024 18:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;Cat's Eye&lt;/em&gt;, &lt;em&gt;Doctors &amp; Daleks: Players Guide&lt;/em&gt;, &lt;em&gt;Doctors &amp; Daleks: Alien Archive&lt;/em&gt;, &lt;em&gt;Doctor Who: Sixty Years of Adventure: Book 1&lt;/em&gt;, &lt;em&gt;Doctor Who: Sixty Years of Adventure: Book 2&lt;/em&gt;, and more!&lt;br&gt;Whovians, treat your gaming group to endless nights of adventure across time and space with this RPG bundle from Cubicle 7 Games! If you’re partial to 5e, the &lt;em&gt;Doctors &amp; Daleks: Players Guide&lt;/em&gt; gives you everything you need to play in the world of &lt;em&gt;Doctor Who&lt;/em&gt; with familiar rules and mechanics. Plus, with the &lt;em&gt;Doctors &amp; Daleks: Alien Archive&lt;/em&gt; on hand, you’ll be able to add the Doctor’s most recognizable adversaries to your adventures! You’ll also get the second edition core rulebook for &lt;em&gt;Doctor Who: The Roleplaying Game&lt;/em&gt; for bespoke Whovian adventures, and a host of supplements, adventures, and more, for both systems! Your purchase helps the BBC Children In Need charity. &lt;br&gt; &lt;br&gt; BBC, DOCTOR WHO, TARDIS, DALEK and CYBERMAN (word marks and devices) are trade marks of the British Broadcasting Corporation and are used under licence. BBC logo © BBC 1996. DOCTOR WHO logo © BBC 1973. Dalek image © BBC/Terry Nation 1963. Cyberman image © BBC/Kit Pedler/Gerry Davis 1966. Licensed by BBC Studios.</description>
+      <media:content url="https://hb.imgix.net/d3b2986b79ddb49fbae14cd981c488c312a7bc66.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=311e8d3eff578260c77e27f9ef57a3a6" type="image/png"/>
+      <media:content url="https://hb.imgix.net/8454e210acf14d9585d7d7180294c9e934f11141.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=5dbdd59eabb09cb07845f8141480cc21" type="image/jpeg"/>
+      <category>books</category>
+      <category>Humble RPG Bundle</category>
+      <category>45 books</category>
+      <category>$830 Value</category>
+    </item>
+    <item>
+      <title>Capcom Summer 2024</title>
+      <link>https://humblebundle.com//games/capcom-summer-2024</link>
+      <guid isPermaLink="false">641369f4f0ad28a9067a4fffbfd843b1717c91e0</guid>
+      <pubDate>Wed, 07 Aug 2024 18:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;Dead Rising 2&lt;/em&gt;, &lt;em&gt;Capcom Beat 'Em Up Bundle&lt;/em&gt;, &lt;em&gt;Ghost Trick: Phantom Detective&lt;/em&gt;, &lt;em&gt;The Great Ace Attorney Chronicles&lt;/em&gt;, &lt;em&gt;Dead Rising 4: Frank's Big Package&lt;/em&gt;, and more!&lt;br&gt;The temps are heating up—keep it breezy for the remainder of this Summer with some of Capcom’s coolest games! &lt;em&gt;Ghost Trick: Phantom Detective&lt;/em&gt; and &lt;em&gt;The Great Ace Attorney Chronicles&lt;/em&gt; deliver a one-two punch of awesome narrative adventure games from esteemed director Shu Takumi. &lt;em&gt;Capcom Beat 'Em Up Bundle&lt;/em&gt; delivers 7 of the most iconic quarter-munchers ever created, including &lt;em&gt;Final Fight&lt;/em&gt;, &lt;em&gt;Captain Commando&lt;/em&gt;, and more! Document the zombie apocalypse in the zany and action-packed &lt;em&gt;Dead Rising 4: Frank's Big Package&lt;/em&gt;. Get all these killer Capcom games and many more, and help support charity with your purchase!</description>
+      <media:content url="https://hb.imgix.net/4b5b8f24652bee6bec297d5c3f655328b771a1b4.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=6d5e9d7a7a5c19886e5a6cab2eb73e2f" type="image/png"/>
+      <media:content url="https://hb.imgix.net/6bed7422db74d7525e58f7105de40405d7700321.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=63a423ae9bbc2d861ae7ee4f5ae1c61e" type="image/jpeg"/>
+      <category>games</category>
+      <category>Capcom Summer 2024</category>
+      <category>12 games</category>
+      <category>$349 Value</category>
+    </item>
+    <item>
+      <title>LEGO Worlds Collide: The Ultimate Assembly</title>
+      <link>https://humblebundle.com//games/lego-worlds-collide-ultimate-assembly</link>
+      <guid isPermaLink="false">8e9b878d2533c12555b381eb5b0a2b36a82f7015</guid>
+      <pubDate>Wed, 31 Jul 2024 18:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;LEGO® Jurassic World&lt;/em&gt;, &lt;em&gt;LEGO® Marvel Super Heroes 2&lt;/em&gt;, &lt;em&gt;LEGO® Batman™ 3: Beyond Gotham&lt;/em&gt;, and more!&lt;br&gt;Get ready for a romp across a whole bunch of your favorite universes, LEGO®-style! This bundle assembles some of the most beloved LEGO® games around, combining iconic franchises with satisfying brick-based fun. Wreak havoc across timelines as some of your favorite heroes and villains in &lt;em&gt;LEGO® Marvel Super Heroes 2&lt;/em&gt;. Join the Caped Crusader, alongside some of DC’s finest, in a mission to dismantle Brainiac's dastardly plans in &lt;em&gt;LEGO® Batman™ 3: Beyond Gotham&lt;/em&gt;. Go dino-crazy in &lt;em&gt;LEGO® Jurassic World&lt;/em&gt;, which retells the epic stories of the first four films in the brick-tastic LEGO® way. And much more! Plus, your purchase helps charity. &lt;br&gt;&lt;br&gt;&lt;em&gt;LEGO, the LEGO logo, are trademarks of the LEGO Group. © 2024 The LEGO group&lt;/em&gt;</description>
+      <media:content url="https://hb.imgix.net/699bec888df1cc7817fd262744f386dff048527f.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=ee073f9380f1f246dfd98c731180f590" type="image/png"/>
+      <media:content url="https://hb.imgix.net/e9b4d6b49363d532b257f84cd652924e191250bb.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=9e4e6140bd307ef4cffd4c35497548c7" type="image/jpeg"/>
+      <category>games</category>
+      <category>LEGO Worlds Collide</category>
+      <category>19 items</category>
+      <category>$419 Value</category>
+    </item>
+    <item>
+      <title>Board Game Night with Dire Wolf &amp; Friends</title>
+      <link>https://humblebundle.com//games/board-game-night-with-dire-wolf-digital-friends</link>
+      <guid isPermaLink="false">5813e411d13439022cc2adeb9595e3c56625e0e4</guid>
+      <pubDate>Fri, 02 Aug 2024 18:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;Root&lt;/em&gt;, &lt;em&gt;Sagrada&lt;/em&gt;, &lt;em&gt;Wingspan&lt;/em&gt;, &lt;em&gt;Dune Imperium&lt;/em&gt;, &lt;em&gt;Terraforming Mars&lt;/em&gt;, &lt;em&gt;Quilts and Cats of Calico&lt;/em&gt;, and more!&lt;br&gt;Some of the best board games of recent years are coming to your digital domain in this eclectic bundle from some of the finest purveyors out there! Whether you’re in the mood for breezy beer and pretzels gaming or chunky competitive strategy, this bundle has an exquisitely crafted digital board game for you. Choose a faction and conquer Arrakis by any means necessary in &lt;em&gt;Dune: Imperium&lt;/em&gt;. Create an efficient engine of avian productivity in the bird-tastic &lt;em&gt;Wingspan&lt;/em&gt;. Turn the red planet green with fancy tech and deft dealings in &lt;em&gt;Terraforming Mars&lt;/em&gt;. Get 9 games total (plus some DLC) and help support the World Wildlife Fund with your purchase!</description>
+      <media:content url="https://hb.imgix.net/c09919779ab7708ae90b2f0432a8bfd1effcd22a.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=107fde63d386b8fbe2770f63878b4b10" type="image/png"/>
+      <media:content url="https://hb.imgix.net/238d245417e73f51d7dfc98d4ec4f799c521eefe.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=3bc81f3a7660facbb69afc5c13941212" type="image/jpeg"/>
+      <category>games</category>
+      <category>Board Game Night with Dire Wolf &amp; Friends</category>
+      <category>13 games</category>
+      <category>$166 Value</category>
+    </item>
+    <item>
+      <title>Pixels With Porpoise</title>
+      <link>https://humblebundle.com//games/pixels-with-porpoise</link>
+      <guid isPermaLink="false">5e5035509588bdd982b7561c37f5912be77c9b78</guid>
+      <pubDate>Fri, 19 Jul 2024 16:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;Webbed&lt;/em&gt;, &lt;em&gt;Celeste&lt;/em&gt;, &lt;em&gt;Anvil Saga&lt;/em&gt;, &lt;em&gt;Rivals of Aether&lt;/em&gt;, &lt;em&gt;Children of Morta Complete&lt;/em&gt;, and more!&lt;br&gt;Help save the whales (and the dolphins and other precious sea mammals) and snag some awesome indie games in the process! Experience the sublime challenges (and poignant themes) of the masterwork platformer &lt;em&gt;Celeste&lt;/em&gt;. Battle it out as powerful (and adorable) avatars of the elements in the &lt;em&gt;Smash&lt;/em&gt;-style fighting game &lt;em&gt;Rivals of Aether&lt;/em&gt;. Get a bug's-eye view of life in the forest in &lt;em&gt;Webbed&lt;/em&gt;, discover ancient mysteries on the brilliant action RPG &lt;em&gt;Children of Morta&lt;/em&gt;, and more! Pay what you want for this bundle of indie hits and help the cause of Whale and Dolphin Conservation with your purchase.</description>
+      <media:content url="https://hb.imgix.net/86f71926e31a477a89b7e10d35574810f4dbd717.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=49d6b56fadf24c1fe157543fde18b377" type="image/png"/>
+      <media:content url="https://hb.imgix.net/64a5f8c2b2e6ecc2c78db40c6571ad069570d184.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=b9a02841bb91a93320111957a951e9fb" type="image/jpeg"/>
+      <category>games</category>
+      <category>Pixels With Porpoise</category>
+      <category>8 games</category>
+      <category>$146 Value</category>
+    </item>
+    <item>
+      <title>Management Material: Tropico &amp; More from Kalypso</title>
+      <link>https://humblebundle.com//games/management-material-tropico-more-from-kalypso</link>
+      <guid isPermaLink="false">56d61f8ca864356e02bdef2f02558bd9fb3b4033</guid>
+      <pubDate>Wed, 17 Jul 2024 18:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;Railway Empire&lt;/em&gt;, &lt;em&gt;Tropico 6 - Going Viral&lt;/em&gt;, &lt;em&gt;Tropico 3: Gold Edition&lt;/em&gt;, &lt;em&gt;Tropico 6 - New Frontiers&lt;/em&gt;, &lt;em&gt;Port Royale 4: Extended Edition&lt;/em&gt;, and more!&lt;br&gt;From nurturing a small but mighty island republic to building a vast and unrivaled railway domain, this bundle of sims from Kalypso will put your strategic acumen and management skills to the test. You’ll get the acclaimed and award-winning banana republic simulator &lt;em&gt;Tropico 6&lt;/em&gt;, including  never-before-bundled DLCs like &lt;em&gt;Going Viral&lt;/em&gt; and &lt;em&gt;New Frontiers&lt;/em&gt;, plus a discount code for the latest expansion &lt;em&gt;Tropican Shores&lt;/em&gt;. In addition, you’ll get &lt;em&gt;Railway Empire&lt;/em&gt; and a massive trainload of expansions, &lt;em&gt;Port Royale 4: Extended Edition&lt;/em&gt;, and a whole lot more! Plus, your purchase helps support the work of the charity Oceana.</description>
+      <media:content url="https://hb.imgix.net/cf24b3d57d16829831e1f95a377d273defa4452c.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=a3b329d5ae2c2e1a5003628924eda00d" type="image/png"/>
+      <media:content url="https://hb.imgix.net/bac4051cebd60f44c762b869b8c5bf5bc84a0c3a.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=9127f6a3029380f3e4fc14e4b3d0ad79" type="image/jpeg"/>
+      <category>games</category>
+      <category>Management Material</category>
+      <category>24 items</category>
+      <category>$466 Value</category>
+    </item>
+    <item>
+      <title>Gold Medal Games: Summer 2024</title>
+      <link>https://humblebundle.com//games/gold-medal-games-summer-2024</link>
+      <guid isPermaLink="false">6a1df723c1e2898b79123ca68df12f63fc0cb098</guid>
+      <pubDate>Thu, 25 Jul 2024 18:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;Session&lt;/em&gt;, &lt;em&gt;NBA 2K24&lt;/em&gt;, &lt;em&gt;Skater XL&lt;/em&gt;, &lt;em&gt;Descenders&lt;/em&gt;, &lt;em&gt;PGA Tour 2K23&lt;/em&gt;, and more!&lt;br&gt;Get in the spirit of athletic excellence this summer with this bundle of gold-medal games that embody the spirit of sport! Take control of the court and dominate with your favorite teams and players in &lt;em&gt;NBA 2K24&lt;/em&gt;. Play against top pros and customize your own career path on the greens in &lt;em&gt;PGA Tour 2K23&lt;/em&gt;. Witness the soul of street skating brought to life in the astoundingly detailed &lt;em&gt;Session: Skate Sim&lt;/em&gt;. Experience sublime physics-based controls and shred with unparalleled freedom in &lt;em&gt;Skater XL&lt;/em&gt;. Get all these games and more—7 in total, embodying the spirit of summer competition—and help support Covenant House with your purchase.</description>
+      <media:content url="https://hb.imgix.net/a34412514f3e27787529bd3acf51ad4c671b9db5.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=b5ebc4b8da8b8bfbb7c9f122216f7dd3" type="image/png"/>
+      <media:content url="https://hb.imgix.net/7b94505464ffd6b866f70f59ed527f59116b9c3c.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=e44b8c9db88ca1dfe0fe3bd24f5c8285" type="image/jpeg"/>
+      <category>games</category>
+      <category>Gold Medal Games</category>
+      <category>7 games</category>
+      <category>$314 Value</category>
+    </item>
+    <item>
+      <title>Data Management Bootcamp and Skills Academy</title>
+      <link>https://humblebundle.com//software/data-management-bootcamp-and-skills-academy-software</link>
+      <guid isPermaLink="false">1bc202a36f4c3c1ff71e76a6e9e0ff37d90c1cd5</guid>
+      <pubDate>Thu, 08 Aug 2024 18:00:00 +0000</pubDate>
+      <description>Get Data Analytics in Excel, Data Management with SQL, Power BI Masterclass 2023, and more!&lt;br&gt;Unlock your data potential with this bundle from Packt! Become job-ready by learning about data science methodologies, Python, Excel, and data manipulation techniques, featuring practical examples and essential skills for aspiring data professionals. Plus, your purchase will support Alzheimer's Research UK.</description>
+      <media:content url="https://hb.imgix.net/fe87877e8e03149f4899fa11868925bb1985a747.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=47a0d623114b7fc7bd45ca5f2a38bc04" type="image/png"/>
+      <media:content url="https://hb.imgix.net/bf3a7000145c6068274919bdb5bb782b159730bf.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=83c4d51dd68045d9f101ec11ef2a4a58" type="image/jpeg"/>
+      <category>software</category>
+      <category>Data Management Bootcamp and Skills Academy</category>
+      <category>24 items</category>
+      <category>$2,089 Value</category>
+    </item>
+    <item>
+      <title>Deluxe Dev Dream: 3D Unreal Engine and Unity Mega Bundle 4000+ Assets</title>
+      <link>https://humblebundle.com//software/deluxe-dev-dream-3d-unreal-engine-and-unity-mega-bundle-4000-assets-software</link>
+      <guid isPermaLink="false">017df1594d7bee2b07594cd03d8df91b360e08a0</guid>
+      <pubDate>Mon, 05 Aug 2024 18:00:00 +0000</pubDate>
+      <description>Get The Bazaar, Foliage Pack, Flag Generator, and more!&lt;br&gt;&lt;iframe width="400" height="315" src="https://www.youtube.com/embed/iTx4D2PuibQ?si=nQKfIpVTTLeGefx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;/br&gt;Get the tools you need to craft environments that will truly transport your players with this massive bundle of assets for Unity and Unreal Engine. Included are over 20 asset packs stuffed to the brim with modular architecture pieces, props, materials, textures, blueprints, and more. Whether you’re aiming for the majesty of feudal Japan or the grim darkness of a gothic dungeon, you’ll get all the building blocks you need to make your vision real. Plus, your purchase helps Children’s Miracle Network Hospitals. &lt;br&gt;&lt;br&gt; &lt;a style="color:#EF9741"&gt;&lt;strong&gt;&lt;em&gt;IMPORTANT: Due to upcoming Unreal Engine Marketplace changes, please redeem your bundle codes within 10 days to avoid redemption issues. To learn more about these Marketplace changes, please click&amp;nbsp;&lt;a href="https://www.fab.com/en-US/support" target="_blank"&gt;here&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;</description>
+      <media:content url="https://hb.imgix.net/6c87a0073c5bdb8fa90ef9fcb91adb41fdb01db1.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=06d57d00077eee693c4eb77daef96e0e" type="image/png"/>
+      <media:content url="https://hb.imgix.net/3cf82b31ee50dba33b01b53950ed683f91b52b0e.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=38364b3fe1e142aba5294044a029ad6a" type="image/jpeg"/>
+      <category>software</category>
+      <category>Deluxe Dev Dream</category>
+      <category>24 items</category>
+      <category>$2,474 Value</category>
+    </item>
+    <item>
+      <title>The Free League Immersive RPG Bundle for Alchemy VTT</title>
+      <link>https://humblebundle.com//software/free-league-immersive-rpg-bundle-for-alchemy-vtt-software</link>
+      <guid isPermaLink="false">d04ce02425f2ad0683efc339270ea188336a249a</guid>
+      <pubDate>Mon, 29 Jul 2024 18:00:00 +0000</pubDate>
+      <description>Get Vaesen: Core Rulebook, Dragonbane: Core Set, Ruins of Symbaroum: Throne of Thorns 1, and more!&lt;br&gt;&lt;iframe width="400" height="315" src="https://www.youtube.com/embed/bqKhKMjqaQ8?si=uzPJDjAGkTtcV-mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;/br&gt;Introduce some variety to your tabletop rotation with this massive bundle of award-winning games from fan-favorite RPG imprint Free League Publishing! You’ll get a host of rulebooks, adventures, and more, ready to plug in play in the slick and immersive virtual tabletop Alchemy! Lay on the spooky vibes with &lt;em&gt;Vaesen – Nordic Horror Roleplaying&lt;/em&gt;, set in a version of 19th century Northern Europe where the most harrowing myths are real. Set off on fast-paced classic fantasy adventures (with plenty of room for laughs) in the modernized Swedish classic &lt;em&gt;Dragonbane&lt;/em&gt;. Explore an alternate 1980’s era town in the grips of strange and uncanny high-tech phenomena in &lt;em&gt;Tales from The Loop&lt;/em&gt;. Get all these games and many others—plus supplements, adventures, and more—and help support Direct Relief with your purchase!</description>
+      <media:content url="https://hb.imgix.net/a7feb343d00ab29d982603c663986c67ee31cdc7.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=ed970cfdcbdd2edc99d15e7cfb855f91" type="image/png"/>
+      <media:content url="https://hb.imgix.net/954705d59409575ad8a7412f98dd48834bc7a4cf.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=9ec740e04b0c9ae491b875bdccb603a2" type="image/jpeg"/>
+      <category>software</category>
+      <category>The Free League Immersive RPG Bundle for Alchemy VTT</category>
+      <category>50 items</category>
+      <category>$1,018 Value</category>
+    </item>
+    <item>
+      <title>Clip Studio Creativity Collection: Paint, Draw, Illustrate</title>
+      <link>https://humblebundle.com//software/clip-studio-creativity-collection-paint-draw-illustrate-software</link>
+      <guid isPermaLink="false">88cb069587d97a6a08d5d4b110a77e8ec1aaeca6</guid>
+      <pubDate>Thu, 18 Jul 2024 18:00:00 +0000</pubDate>
+      <description>Get 3D Poses Pack, 3D Models Pack, Ultimate Brush Pack, Superhero Brush Pack, Clip Studio Paint Pro Version 3.0 - 12 month license, and more!&lt;br&gt;&lt;p&gt;Supercharge your creative output with &lt;em&gt;Clip Studio Paint Pro&lt;/em&gt;, the full-featured digital art app perfect for illustrators, animators, comic and manga artists, and anyone looking for a powerful and versatile tool to boost their craft.&lt;/p&gt;&lt;p&gt;The Clip Studio Paint Pro 12-month single device version allows you to use the app on one tablet, smartphone, or computer for one year with all the latest updates for no extra charge. In addition&lt;strong&gt;, &lt;/strong&gt;you&amp;rsquo;ll get a host of brush packs, ready-to-use 3D models and poses, and a variety of assets to help you create the best comics of your life, like panel frames, speech bubbles, and more! Plus, your purchase helps No Kid Hungry.&lt;/p&gt;&lt;br&gt;&lt;br&gt; &lt;a style="color:#EF9741"&gt;&lt;strong&gt;&lt;em&gt;Bundle Boost: Fresh Content Added to Give You More Creative Power&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;</description>
+      <media:content url="https://hb.imgix.net/bc84d5cc2b49c132c363184f1ad5936c0df47fd3.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=7befa4730cfa1625992005ca68328043" type="image/png"/>
+      <media:content url="https://hb.imgix.net/5ffbcced6be28daf882dbbc775f7273dd033ab46.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=984d97231e19ffe8230075e3845e5401" type="image/jpeg"/>
+      <category>software</category>
+      <category>Clip Studio Creativity Collection</category>
+      <category>13 items</category>
+      <category>$500 Value</category>
+    </item>
+    <item>
+      <title>The Complete Advanced Algorithms &amp; Programming Bundle</title>
+      <link>https://humblebundle.com//software/complete-advanced-algorithms-programming-bundle-software</link>
+      <guid isPermaLink="false">1c79f953d962532f62f9f72fb89b2b0995aa1509</guid>
+      <pubDate>Mon, 22 Jul 2024 18:00:00 +0000</pubDate>
+      <description>Get The Complete Algorithm Theory Course, The React JavaScript Algorithms Bundle, The Complete Unity Graphics Course - Transform Your Game with Advanced Shaders and Algorithms, and more!&lt;br&gt;Whatever your specific programming discipline, algorithms are among the most powerful tools available to solve complex problems efficiently. This bundle of courses will give you confidence to implement cutting-edge algorithms across a host of languages, applications, and use-cases. Get access to over 40 in-depth courses, covering topics like deep learning, web development, machine learning, game dev and much more. Get the skills you need to get an edge in the increasingly competitive tech market, and help support One Tree Planted with your purchase!</description>
+      <media:content url="https://hb.imgix.net/4ff6091d6a708759c0400d89f0a5c8881423baf7.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=8c9e6d92c49d7b355925266337e06dd8" type="image/png"/>
+      <media:content url="https://hb.imgix.net/a9bd77c67ad19cc637803c17de50f674636828d5.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=f0fc0385c798feaa4c15fd22a131e408" type="image/jpeg"/>
+      <category>software</category>
+      <category>The Complete Advanced Algorithms &amp; Programming Bundle</category>
+      <category>42 items</category>
+      <category>$2,000 Value</category>
+    </item>
+    <item>
+      <title>The Legendary Soundtrack Suite</title>
+      <link>https://humblebundle.com//software/legendary-soundtrack-suite-software</link>
+      <guid isPermaLink="false">08a4a1bf6d395658d4bb6a9cbd5daad752da3ad6</guid>
+      <pubDate>Thu, 01 Aug 2024 18:00:00 +0000</pubDate>
+      <description>Get RnB Music Pack, EDM Music Pack, Action Music Pack, and more!&lt;br&gt;Whether you’re a game dev, film maker, content creator, or creative of any stripe, this bundle has the music you need to make your project soar! Included are 40 music packs across a vast galaxy of genres, ready to plug into your workflow. From medieval tunes suitable for your fantasy epic, to symphonic metal to get your audience’s spirit stirring, get all the music you need to capture the perfect vibe. Pay what you want for this massive library of music and help support No Kid Hungry with your purchase.&lt;br&gt;&lt;br&gt;&lt;br&gt;The top tier of this bundle contains all of the content from the previous Creator Boombox bundle.&lt;br&gt;</description>
+      <media:content url="https://hb.imgix.net/c03916022f5c0a7a8e630721d05040f41f8156fb.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=56b93ac79b44d0fad0391a113cb1574a" type="image/png"/>
+      <media:content url="https://hb.imgix.net/1568f590af9cb79ca246a8c7183f2b04a83cf085.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=e401536dd3258a00d3cc8fcd3b27c3d0" type="image/jpeg"/>
+      <category>software</category>
+      <category>The Legendary Soundtrack Suite</category>
+      <category>40 items</category>
+      <category>$2,000 Value</category>
+    </item>
+    <item>
+      <title>Learn GameDev with Godot, Unreal, Unity &amp; GameMaker</title>
+      <link>https://humblebundle.com//software/learn-gamedev-with-godot-unreal-unity-gamemaker-software</link>
+      <guid isPermaLink="false">12e1c3941f16c8a813ac6cbb2cb816316bf03726</guid>
+      <pubDate>Mon, 08 Jul 2024 18:00:00 +0000</pubDate>
+      <description>Get Intro to Pygame, UI/UX for Game Design, Level Design for Beginners, and more!&lt;br&gt;Ready to get started making games in Unreal Engine, Unity, and Godot? This bundle is packed with comprehensive online courses for all those popular and powerful game engines, and more! Learn to harness Godot’s 2D capabilities and create challenging tower defense games, brutal bullet hells, and more. Leverage the power of Unreal Engine to build everything from exciting multiplayer experiences to spooky horror games. Craft your ultimate turn-based game in Unity, pick up essential game dev skills like asset creation in Blender, coding in Python, and much more! Plus, your purchase helps Code.org.</description>
+      <media:content url="https://hb.imgix.net/be3c06f77443006eee279c39d27e2ba17be3351d.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=0988888a318fd5a0e68cc95e5be51ceb" type="image/png"/>
+      <media:content url="https://hb.imgix.net/2fcaeedccebca32d297fc081dd4a820e67f6c94e.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=9943a733b0afd475237edc949a87afd3" type="image/jpeg"/>
+      <category>software</category>
+      <category>Learn GameDev with Godot, Unreal, Unity &amp; GameMaker</category>
+      <category>35 items</category>
+      <category>$1,750 Value</category>
+    </item>
+    <item>
+      <title>Leartes Unreal / Unity / Godot Mega Flash Sale</title>
+      <link>https://humblebundle.com//software/leartes-unreal-unity-godot-mega-flash-sale-software</link>
+      <guid isPermaLink="false">b7b51a1ba37fbfc08064b72aa2026c8a588c21d2</guid>
+      <pubDate>Thu, 25 Jul 2024 18:00:00 +0000</pubDate>
+      <description>Get SFX Warzone, Cyberpunk Benches, Object Distribution Tool, and more!&lt;br&gt;Game makers, this flash sale is coming in hot! Get your hands on a jam-packed bundle of assets for your next Unity or Unreal Engine project, including high-quality environments, props, character and vehicle models, audio assets, tools, and more! From post-apocalyptic wastelands to dark medieval milieus, these ready-to-use and customizable assets will help you realize your vision, whatever it may be. This bundle won’t last long, so snag it while you can. Plus, your purchase helps support Direct Relief.</description>
+      <media:content url="https://hb.imgix.net/a0983290ad6fe05d27aaa212a2db69ac57c034d9.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=24c49c6b6d4312f85c9997f885ed843a" type="image/png"/>
+      <media:content url="https://hb.imgix.net/344ca1f11e93c6a8ca31b9be117366a3f011baa7.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=5500256d8a2f61c31c1af796268da901" type="image/jpeg"/>
+      <category>software</category>
+      <category>Leartes Unreal / Unity / Godot Mega Flash Sale</category>
+      <category>35 items</category>
+      <category>$2,020 Value</category>
+    </item>
+    <item>
+      <title>Blender Market's Essential Game Modding Toolkit</title>
+      <link>https://humblebundle.com//software/blender-markets-essential-game-modding-toolkit-software</link>
+      <guid isPermaLink="false">a593d985523b71ad8a17953096e6c8d622c21a46</guid>
+      <pubDate>Thu, 11 Jul 2024 18:00:00 +0000</pubDate>
+      <description>Get Bakemaster, Uvpackmaster 3, Better Fbx Importer &amp; Exporter, Retopoflow - Retopology Toolkit For Blender, Faceit : Facial Expressions And Performance Capture, and more!&lt;br&gt;3D artists, it’s time to optimize your workflows, build up your arsenal, and level up your skills with this bundle of tools, assets, and tutorials. If you’re a Blender user, get ready for a smorgasbord of invaluable tools, ranging from &lt;em&gt;Retopoflow&lt;/em&gt;, which introduces a full retopology toolkit to the industry-standard open-source program, to &lt;em&gt;Faceit&lt;/em&gt;, an add-on that makes facial rigging, mocap, and animation a breeze. You’ll also get a host of ready-to-use software and engine-agnostic assets, plus a curated selection of in-depth tutorials focusing on essential 3D graphics topics. Pay what you want for this amazing package, and help support One Tree Planted with your purchase!</description>
+      <media:content url="https://hb.imgix.net/cc04ff498fa5abdec2c033d261f0352ad932a6b0.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=be69f0ce8db6846899628b0e1e881476" type="image/png"/>
+      <media:content url="https://hb.imgix.net/961fe3e8cee8801923b672c0f369fe9827fcc4af.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=25f4298cb2955e5513a338015afd1102" type="image/jpeg"/>
+      <category>software</category>
+      <category>Blender Market's Essential Game Modding Toolkit</category>
+      <category>42 items</category>
+      <category>$1,558 Value</category>
+    </item>
+    <item>
+      <title>The Summer Games: Language Learning and Travel</title>
+      <link>https://humblebundle.com//software/summer-games-language-learning-and-travel-software</link>
+      <guid isPermaLink="false">230faa8651d25dcc82887c5c0a0542f65d5796a5</guid>
+      <pubDate>Wed, 24 Jul 2024 18:00:00 +0000</pubDate>
+      <description>Get Eat Japan 1, Eat Italy 1, uTalk Dutch 3 months, and more!&lt;br&gt;The Summer Games: Language Learning and Travel bundle is your passport to exploring the world like a champion! You’ll get over 30 &lt;em&gt;Lonely Planet&lt;/em&gt; guidebooks full of maps, travel tips, and itineraries for some of the most memorable destinations around the world, including France, Japan, Italy, and many others. Also included is a vast selection of language lessons via the popular uTalk app, designed by scientists, researchers and linguists to make the process of language acquisition fun and effective. Get ready for your travels with 12 months of access to Japanese, French, and a host of other languages via the uTalk app! Plus, your purchase helps the Children’s Miracle Network.</description>
+      <media:content url="https://hb.imgix.net/995f01885f46fbce9fa5dc9a03e8f140ffa1c4b2.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=ecc8d8d47b4305798dcdf7b24164685a" type="image/png"/>
+      <media:content url="https://hb.imgix.net/0a3a4da79947a0c2187201cd46d11cbd661c69f8.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=cfba05813e060988981b9ddbeb08cfe2" type="image/jpeg"/>
+      <category>software</category>
+      <category>The Summer Games</category>
+      <category>79 items</category>
+      <category>$2,014 Value</category>
+    </item>
+    <item>
+      <title>Architect - Home &amp; Landscape Design Encore</title>
+      <link>https://humblebundle.com//software/architect-home-landscape-design-encore-software</link>
+      <guid isPermaLink="false">299546a5307894120b8ab6068d33a2e0440a30af</guid>
+      <pubDate>Thu, 01 Aug 2024 18:00:00 +0000</pubDate>
+      <description>Get Personal Architect Online, Personal Architect Platinum, Personal Architect Interiors, and more!&lt;br&gt;Ready to bring your home design dreams into reality? This bundle is packed with powerful software that’ll help you design every facet of your dream home. &lt;em&gt;Personal Architect Online&lt;/em&gt; lets you sketch out your big ideas on the cloud with easy tools and slick collaboration features. You’ll also get specialized software for interiors, kitchens and baths, and landscapes, with features like 2D and 3D sketching, photorealistic views, VR mode, and much more. Pay what you want for this powerful suite of home design tools, and help support Covenant House with your purchase!</description>
+      <media:content url="https://hb.imgix.net/3843346e3f3ff3187508d93ebd622559a5116061.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=5648967d717a2f48247ee5d0c698b0ce" type="image/png"/>
+      <media:content url="https://hb.imgix.net/d140fbc562d0ae940c69581aa4127168bfe7a657.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=6f3c2b0a175bc8bfa524c83f1ec7f2d9" type="image/jpeg"/>
+      <category>software</category>
+      <category>Architect - Home &amp; Landscape Design Encore</category>
+      <category>6 items</category>
+      <category>$479 Value</category>
+    </item>
+    <item>
+      <title>Dungeons and Monsters 3</title>
+      <link>https://humblebundle.com//software/dungeons-and-monsters-3-software</link>
+      <guid isPermaLink="false">c72b8720b874869e95c463eccb660d2a9113ecd0</guid>
+      <pubDate>Mon, 15 Jul 2024 18:00:00 +0000</pubDate>
+      <description>Get Mimic, Orc Camp, Carnival Brute, and more!&lt;br&gt;Hope you’re stocked on resin, because this bundle of 3D printable fantasy miniatures from the wizards at Hayland Terrain are going to put your fab to work. Included is a veritable horde of characters and monsters, ranging from humanoids straight out of central casting and tabletop stalwarts like mimics and gelatinous cubes, to off-the-wall originals, like the denizens of an infernal carnival. You’ll also get a ton of scenery to bring to life thriving cityscapes, cozy taverns, ancient ruins, and more. Pay what you want for more than a hundred individual sets of 3D printable assets and help support the Make-A-Wish foundation!</description>
+      <media:content url="https://hb.imgix.net/9f63c03a304fff9efe68d991076047cd87b9c7c3.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=506fcc5fb771ff537bda5ea6f07017d8" type="image/png"/>
+      <media:content url="https://hb.imgix.net/1f8be1160c1ef3a95983cda205fb61e6c8f813f5.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=f1cd53f8e8c3e3526a6e05f5ed2edb94" type="image/jpeg"/>
+      <category>software</category>
+      <category>Dungeons and Monsters 3</category>
+      <category>117 items</category>
+      <category>$731 Value</category>
+    </item>
+    <item>
+      <title>Poser 12 - 3D Character Design Pack</title>
+      <link>https://humblebundle.com//software/poser-12-3d-character-design-pack-software</link>
+      <guid isPermaLink="false">b4991917136e564140525ccf617234706eac049c</guid>
+      <pubDate>Thu, 18 Jul 2024 18:00:00 +0000</pubDate>
+      <description>Get , Poser 12, Poser Content, and more!&lt;br&gt;Get started creating stunning 3D art today with &lt;em&gt;Poser 12&lt;/em&gt;, the go-to tool for anyone seeking a powerful and accessible entry point to the world of CG. Whether you’re modeling and animating characters, building storyboards, or creating digital art, &lt;em&gt;Poser 12&lt;/em&gt;’s intuitive interface and extensive library of ready-to-use assets simplifies the creation process, allowing you to focus on bringing your vision to life. This bundle also includes a vast library of content ready to plug into your projects, including thousands of poses, morphs, clothing, materials, and more. Pay what you want for this powerful and easy-to-use tool and help support No Kid Hungry. </description>
+      <media:content url="https://hb.imgix.net/d452a0f34f1bd70ff075d85488448e6564b40530.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=e399776f5cfd90632d3496ef6e40e645" type="image/png"/>
+      <media:content url="https://hb.imgix.net/adfad12b3c6992cca07a758a49742d68d2c8270d.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=b160a9707fc75d89b9db596423e311f3" type="image/jpeg"/>
+      <category>software</category>
+      <category>Poser 12 - 3D Character Design Pack</category>
+      <category>2 items</category>
+      <category>$1,249 Value</category>
+    </item>
+  </channel>
+</rss>
