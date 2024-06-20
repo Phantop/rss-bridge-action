@@ -20,14 +20,13 @@ jobs:
           git submodule update --init --remote
           echo '*' > rss-bridge/whitelist.txt
           cp -r bridges rss-bridge
-          sed -i 's#^.*?action=display&##' list
           php -t rss-bridge -S 127.0.0.1:8080 &
           sleep 1
 
-
           mkdir ../out
-          parallel wget -P ../out "localhost:8080/?action=display\&format=Mrss\&{}" < list
-          file-rename 's/index.html\?action=display&format=Mrss&//' ../out/*
+          path='?action=display&format=Mrss&bridge='
+          parallel -q wget -P ../out localhost:8080/$path{} < list
+          rename 's/.*?bridge=//' ../out/*
       - name: Commit data
         run: |
           git config user.name "Updater"
