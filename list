@@ -1,8 +1,8 @@
-bridge=AO3Bridge&context=List&range=first&url=https%3a%2f%2farchiveofourown.org%2ftags%2fLink%2as%2aMidna%2520%28Legend%2520of%2520Zelda%29%2fworks%3fwork_search%5bsort_column%5d%3dcreated_at
 bridge=AllSidesBridge&context=Headline+Roundups&limit=10&fetch=on
 bridge=ArsTechnicaBridge&section=index
-bridge=CssSelectorBridge&home_page=https%3A%2F%2Ftext.npr.org&url_selector=.topic-title&content_selector=.paragraphs-container
+bridge=CssSelectorBridge&home_page=https%3A%2F%2Ftext.npr.org%2F1001&url_selector=.topic-title&content_selector=.paragraphs-container
 bridge=CssSelectorBridge&home_page=https%3A%2F%2Fwww.govtrack.us%2Fposts&url_selector=section&content_selector=%23content
+bridge=CssSelectorFeedExpanderBridge&feed=https%3A%2F%2Ffeeds.npr.org%2F1180232252%2Frss.xml&content_selector=%23storytext
 bridge=GameBananaBridge&context=Game&gid=18604&updates=on
 bridge=GameBananaBridge&context=Game&gid=5486&updates=on
 bridge=GameBananaBridge&context=Game&gid=5866&updates=on
