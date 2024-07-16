@@ -25,7 +25,7 @@ jobs:
 
           mkdir ../out
           path='?action=display&format=Mrss&bridge='
-          parallel -q wget -P ../out localhost:8080/$path{} < list
+          parallel -q wget -P ../out localhost:8080/$path{} < list || true
       - name: Commit data
         run: |
           git config user.name "Updater"
