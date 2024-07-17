@@ -33,6 +33,7 @@ jobs:
           git fetch origin out
           git checkout out
           rm -rf *
+          rename 's/%2F/_/g' ../out/*
           rename 's/.*?bridge=//' ../out/*
           git add .
           git commit --amend -m "$(date -u)"
